@@ -2,12 +2,13 @@
 
 import React, { useState, useRef, Suspense } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
-import { Points, PointMaterial, Preload } from "@react-three/drei";
-// @ts-ignore
+import { Points, PointMaterial } from "@react-three/drei";
+import * as THREE from "three";
+// @ts-expect-error: maath/random does not have TypeScript types
 import * as random from "maath/random/dist/maath-random.esm";
 
-const StarBackground = (props: any) => {
-  const ref: any = useRef();
+const StarBackground = (props: React.ComponentPropsWithoutRef<'group'>) => {
+  const ref = useRef<THREE.Points>(null);
   const [sphere] = useState(() =>
     random.inSphere(new Float32Array(5000), { radius: 1.2 })
   );
@@ -32,7 +33,7 @@ const StarBackground = (props: any) => {
                 color="#fff"
                 size={0.002}
                 sizeAttenuation={true}
-                dethWrite={false}
+                depthWrite={false}
             />
         </Points>
     </group>
