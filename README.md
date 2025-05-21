@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/blob/main/public/NavLogo.png" alt="Space Portfolio Logo" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/public/NavLogo.png" alt="Space Portfolio Logo" width="100" height="100" />
 </p>
 
 <h1 align="center">🚀 Space Portfolio</h1>
