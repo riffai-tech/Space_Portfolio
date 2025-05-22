@@ -94,9 +94,7 @@ Deployed with **Vercel**
 
 * 🌌 3D Starfield background
 * 📝 Blog integration
-* 🌞 Light mode toggle
-* 🌐 Language switcher
-* 🎯 Advanced project filters
+
 
 ---
 
