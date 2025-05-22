@@ -34,8 +34,7 @@
 - 🪐 **Skill Orbit** – Tech stack displayed in orbital motion like planets  
 - 🚀 **Project Showcase** – Scrollable, clean layout for featured work  
 - 🌒 **Dark Theme** – Sleek and cosmic with smooth transitions  
-- 🔗 **Social Links** – GitHub, LinkedIn, and more  
-- 📱 **Responsive Design** – Mobile & desktop friendly  
+- 🔗 **Social Links** – GitHub, LinkedIn, and more
 - 🧭 **Smooth Navigation** – Scrollspy and section jump  
 
 ---
@@ -44,7 +43,7 @@
 
 | Area        | Tech                          |
 |-------------|-------------------------------|
-| Frontend    | React.js, Vite                |
+| Frontend    | Next js                       |
 | UI/Design   | TailwindCSS, Framer Motion    |
 | Animation   | GSAP (cosmic transitions)     |
 | Hosting     | Vercel                        |
@@ -56,7 +55,7 @@
 
 | Landing | Skills Orbit | Projects |
 |--------|---------------|----------|
-| ![Landing](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/screenshots/landing.jpg) | ![Skills](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/screenshots/skills.jpg) | ![Projects](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/screenshots/projects.jpg) |
+| ![AboutMe](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/aboutme.png) | ![Skills](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/skills.jpg) | ![Projects](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/projects.jpg) |
 
 ---
 
