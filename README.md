@@ -55,7 +55,7 @@
 
 | Landing | Skills Orbit | Projects |
 |--------|---------------|----------|
-| ![AboutMe](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/aboutme.png) | ![Skills](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/skills.jpg) | ![Projects](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/projects.jpg) |
+| ![AboutMe](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/public/aboutme.png) | ![Skills](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/public/skills.jpg) | ![Projects](https://raw.githubusercontent.com/aaditya7788/Space_Portfolio/main/public/projects.jpg) |
 
 ---
 
