@@ -92,7 +92,7 @@ export const Skill_data = [
     {
       name: "LinkedIn",
       src: "/linkedin.svg",
-      link: "https://www.instagram.com/_adi_.78/",
+      link: "https://www.linkedin.com/in/aadityasahani78/",
       size: 26,
     },
     {
