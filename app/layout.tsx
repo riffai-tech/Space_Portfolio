@@ -8,8 +8,8 @@ import Footer from "@/components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Space Portfolio",
-  description: "This is my portfolio",
+  title: "RIFFAI - AI-Powered Satellite Solutions",
+  description: "Bring space down to earth with AI-powered satellite solutions for monitoring environmental change",
 };
 
 export default function RootLayout({

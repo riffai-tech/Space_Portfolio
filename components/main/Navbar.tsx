@@ -17,16 +17,16 @@ const Navbar = () => {
               />
 
             <span className='font-bold ml-[10px] hidden md:block text-gray-300'>
-              Devloper Adi,
+              RIFFAI
             </span>
           </a>
         <div className="w-[500px] h-full flex flex-row items-center justify-between md:mr-20 ">
           <div className="flex items-center justify-between w-full h-auto border border-[#7042f861] bg-[#0300145e] mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200">
             <a href="#about-me" className="cursor-pointer">
-              About me
+              About
             </a>
             <a href="#skills" className="cursor-pointer">
-              Skills
+              Technology
             </a>
             <a href="#projects" className="cursor-pointer">
               Projects
@@ -37,8 +37,8 @@ const Navbar = () => {
         <div className="flex flex-row gap-5">
           {Socials.map((social) => (
   <a
-    key={social.name} // Add a unique key for each item
-    href={social.link} // Use the actual link from the Socials array
+    key={social.name}
+    href={social.link}
     target="_blank"
     rel="noopener noreferrer"
   >
